@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Months,Product,Category,Quantity,Price,Total_Sales,Region
+1001,05-01-24,1,Laptop,Electronics,2,50000,100000,West
+1002,10-01-24,1,Mobile,Electronics,3,20000,60000,East
+1003,15-02-24,2,Headphones,Accessories,5,2000,10000,North
+1004,20-03-24,3,Chair,Furniture,4,3000,12000,South
+1005,05-04-24,4,Table,Furniture,2,7000,14000,West
+1006,12-05-24,5,Mouse,Accessories,6,800,4800,East
+1007,18-06-24,6,Keyboard,Accessories,4,1500,6000,North
+1008,22-07-24,7,Monitor,Electronics,1,12000,12000,South
+1009,10-08-24,8,Sofa,Furniture,1,25000,25000,West
+1010,15-09-24,9,Tablet,Electronics,2,18000,36000,East
